@@ -1,0 +1,25 @@
+h2{
+    color: rgb(242, 2, 2); 
+}
+#Virat{
+    color: gold; border: 2px solid red; border-radius: 10%;
+}
+.name{
+     color: rgb(0, 13, 255); border: 2px orange; */
+}
+h3{
+    color: lime; 
+   
+}
+div{
+    border: 20px solid rgb(71, 20, 171); border-radius: 10%; padding:5%; margin: 5%;
+}
+#ROG{
+    color: rgb(64, 3, 249);
+}
+body{
+    background-image: url(./kOHLI24.jpg);
+}
+header{
+    font-size: 75px;
+}
