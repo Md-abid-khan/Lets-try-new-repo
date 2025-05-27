@@ -18,7 +18,8 @@ div{
     color: rgb(64, 3, 249);
 }
 body{
-    background-image: url(./kOHLI24.jpg);
+    background-image: url(./kOHLI24.jpg); background-repeat: no-repeat;
+    background-size: 100% ;
 }
 header{
     font-size: 75px;
